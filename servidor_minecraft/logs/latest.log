@@ -1,0 +1,167 @@
+[01Sep2024 00:14:30.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 00:19:10.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 00:19:25.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 00:19:27.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 00:24:29.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deming moved wrongly!
+[01Sep2024 00:36:07.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 00:36:07.998] [Server thread/WARN] [tombstone/]: The death event of the player Deming was canceled by another mod
+[01Sep2024 00:36:08.010] [Server thread/INFO] [tombstone/]: The player Deming has successfully been saved
+[01Sep2024 00:36:14.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming was slain by Foliaath
+[01Sep2024 00:36:16.065] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Sep2024 00:36:16.066] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[01Sep2024 00:49:41.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Sep2024 00:49:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aa<--[HERE]
+[01Sep2024 00:59:41.232] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Deming})
+[01Sep2024 01:01:16.148] [Server thread/INFO] [Scaling Health/]: Blight Harpy was killed by Silva_htxl
+[01Sep2024 01:10:06.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 01:10:06.148] [Server thread/WARN] [tombstone/]: The death event of the player Deming was canceled by another mod
+[01Sep2024 01:10:06.156] [Server thread/INFO] [tombstone/]: The player Deming has successfully been saved
+[01Sep2024 01:10:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming was slain by Skeleton
+[01Sep2024 01:10:24.118] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Sep2024 01:10:24.118] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Sep2024 01:16:05.102] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Silva_htxl
+[01Sep2024 01:16:08.543] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[01Sep2024 01:16:33.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 01:16:35.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 01:19:28.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-773, y=3, z=2383} BlockPos{x=-772, y=2, z=2383}
+[01Sep2024 01:21:25.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 01:21:25.050] [Server thread/WARN] [tombstone/]: The death event of the player Deming was canceled by another mod
+[01Sep2024 01:21:25.065] [Server thread/INFO] [tombstone/]: The player Deming has successfully been saved
+[01Sep2024 01:21:33.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming was impaled by Frenzied Knight
+[01Sep2024 01:21:34.553] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Sep2024 01:21:34.553] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Sep2024 01:23:31.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Sep2024 01:23:31.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[01Sep2024 01:23:46.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya no esta el mob que rompe la armor y mta de un hit verdad?
+[01Sep2024 01:23:52.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> nop
+[01Sep2024 01:23:55.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> mejor asi
+[01Sep2024 01:24:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> no
+[01Sep2024 01:24:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> ya se puede explorar con ganas
+[01Sep2024 01:26:04.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ah ya entonces era ese mod despues en un rato agregare el otro que hace que los mobs construyan y rompan bloques
+[01Sep2024 01:26:10.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] para agregar diversion a la vida
+[01Sep2024 01:26:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> xd
+[01Sep2024 01:26:27.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el otro que era buenaso no pude agregarlo daba mucho lag
+[01Sep2024 01:26:33.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y su casa de darkos se habia quemado Xd
+[01Sep2024 01:26:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> Xd
+[01Sep2024 01:26:44.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> xd
+[01Sep2024 01:28:09.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deming lost connection: Timed out
+[01Sep2024 01:28:09.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming left the game
+[01Sep2024 01:35:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has made the advancement [The Brass Age]
+[01Sep2024 01:35:52.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1083, l='ServerLevel[world]', x=-692.30, y=70.00, z=2440.38] died, message: 'Farmer was slain by Zombie'
+[01Sep2024 01:45:47.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has reached the goal [Desperate Measures]
+[01Sep2024 01:50:42.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has made the advancement [Voluntary Exile]
+[01Sep2024 02:01:04.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has made the advancement [A Pair of Giants]
+[01Sep2024 02:13:23.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has completed the challenge [Village Defender]
+[01Sep2024 02:17:10.277] [Server thread/INFO] [Scaling Health/]: Blight Phantom was killed by Silva_htxl
+[01Sep2024 02:48:44.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Sep2024 02:48:44.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[01Sep2024 02:57:39.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl lost connection: Disconnected
+[01Sep2024 02:57:39.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl left the game
+[01Sep2024 02:58:06.188] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@736a83f1
+[01Sep2024 02:58:06.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Silva_htxl[/127.68.57.254:33821] logged in with entity id 98099 at (-603.4370535041515, 68.0, 2380.0284507572524)
+[01Sep2024 02:58:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl joined the game
+[01Sep2024 03:11:55.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 03:13:21.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl moved wrongly!
+[01Sep2024 03:16:25.848] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54cdc711
+[01Sep2024 03:22:43.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has made the advancement [Complex Curiosities]
+[01Sep2024 03:30:42.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Sep2024 03:30:42.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[01Sep2024 03:48:45.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1089, l='ServerLevel[world]', x=-699.50, y=70.00, z=2429.85] died, message: 'Fisherman was slain by Zombie'
+[01Sep2024 05:23:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Sep2024 05:23:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[01Sep2024 05:28:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl has made the advancement [Nerves of Steel]
+[01Sep2024 05:32:06.745] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46fe158a
+[01Sep2024 05:32:06.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xXDARKOSXx[/127.193.163.80:53857] logged in with entity id 125373 at (-685.3774747531188, 68.0, 2230.781625023212)
+[01Sep2024 05:32:06.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXDARKOSXx joined the game
+[01Sep2024 05:32:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> holo
+[01Sep2024 05:32:27.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> olo :V
+[01Sep2024 05:32:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> Xd
+[01Sep2024 05:32:33.451] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@371fc9d7
+[01Sep2024 05:32:33.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deming[/127.51.158.54:41911] logged in with entity id 125658 at (-753.9461808114075, -52.0, 2405.2491189542006)
+[01Sep2024 05:32:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming joined the game
+[01Sep2024 05:35:46.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 05:35:46.502] [Server thread/WARN] [tombstone/]: The death event of the player Deming was canceled by another mod
+[01Sep2024 05:35:46.513] [Server thread/INFO] [tombstone/]: The player Deming has successfully been saved
+[01Sep2024 05:35:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming was slain by Murmur
+[01Sep2024 05:35:57.501] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Sep2024 05:35:57.501] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01Sep2024 05:36:58.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[01Sep2024 05:42:13.706] [Server thread/INFO] [Scaling Health/]: Blight Capuchin Monkey was killed by xXDARKOSXx
+[01Sep2024 05:43:56.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1081, l='ServerLevel[world]', x=-756.50, y=71.00, z=2424.50] died, message: 'Farmer was sucked dry by xXDARKOSXx'
+[01Sep2024 05:55:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estan ahi?
+[01Sep2024 05:55:37.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> no
+[01Sep2024 05:55:38.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> si
+[01Sep2024 05:55:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> NO X 2
+[01Sep2024 05:55:59.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aun queda tiempo creo es que ya esta en rojo y tengo que pasarlo al otro
+[01Sep2024 05:56:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pero no demora mucho
+[01Sep2024 05:56:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aun no lo hare les aviso
+[01Sep2024 05:56:10.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> OK
+[01Sep2024 05:56:11.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> ok
+[01Sep2024 05:56:57.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 05:56:57.599] [Server thread/WARN] [tombstone/]: The death event of the player xXDARKOSXx was canceled by another mod
+[01Sep2024 05:56:57.608] [Server thread/INFO] [tombstone/]: The player xXDARKOSXx has successfully been saved
+[01Sep2024 05:57:31.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> 150 DE EXP MMGUEVOOO
+[01Sep2024 05:57:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Silva_htxl> Xd
+[01Sep2024 05:57:37.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> 20 SEG
+[01Sep2024 05:57:39.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> :v
+[01Sep2024 05:58:01.873] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 125658
+[01Sep2024 05:58:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que rica exp
+[01Sep2024 05:58:15.613] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Silva_htxl/muro_corto.nbt
+[01Sep2024 05:58:41.005] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Silva_htxl/muro_largo.nbt
+[01Sep2024 06:01:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXDARKOSXx has made the advancement [Quite the Renovation]
+[01Sep2024 06:01:51.781] [Server thread/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[01Sep2024 06:01:51.852] [Server thread/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[01Sep2024 06:01:51.961] [Server thread/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[01Sep2024 06:01:52.020] [Server thread/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[01Sep2024 06:01:52.121] [Server thread/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[01Sep2024 06:01:52.182] [Server thread/INFO] [de.teamlapen.werewolves.world.gen.OverworldModifications/]: Adding biome ResourceKey[minecraft:worldgen/biome / werewolves:werewolf_heaven] to ParameterPoints [ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[-2000-2000], offset=0], ParameterPoint[temperature=[1900-4000], humidity=[-2500-2500], continentalness=[2000-5500], erosion=[-3750--2225], depth=0, weirdness=[2000-6000], offset=0]] in Preset.OVERWORLD
+[01Sep2024 06:03:36.195] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Entity sent by client is not in reach 125658
+[01Sep2024 06:06:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXDARKOSXx has made the advancement [Mine Turtle!]
+[01Sep2024 06:06:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming has made the advancement [Mine Turtle!]
+[01Sep2024 06:06:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 06:06:45.446] [Server thread/WARN] [tombstone/]: The death event of the player Deming was canceled by another mod
+[01Sep2024 06:06:45.454] [Server thread/INFO] [tombstone/]: The player Deming has successfully been saved
+[01Sep2024 06:07:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming was slain by xXDARKOSXx
+[01Sep2024 06:07:06.408] [Server thread/INFO] [tombstone/]: The player Deming has successfully been saved
+[01Sep2024 06:07:07.868] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Sep2024 06:07:07.869] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[01Sep2024 06:09:23.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> xd
+[01Sep2024 06:09:45.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> MATAME Y REVIVEME :V
+[01Sep2024 06:09:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 06:09:52.305] [Server thread/WARN] [tombstone/]: The death event of the player xXDARKOSXx was canceled by another mod
+[01Sep2024 06:09:52.314] [Server thread/INFO] [tombstone/]: The player xXDARKOSXx has successfully been saved
+[01Sep2024 06:10:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 06:10:03.497] [Server thread/WARN] [tombstone/]: The death event of the player xXDARKOSXx was canceled by another mod
+[01Sep2024 06:10:03.505] [Server thread/INFO] [tombstone/]: The player xXDARKOSXx has successfully been saved
+[01Sep2024 06:10:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> XD
+[01Sep2024 06:10:23.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[01Sep2024 06:10:23.499] [Server thread/WARN] [tombstone/]: The death event of the player xXDARKOSXx was canceled by another mod
+[01Sep2024 06:10:23.514] [Server thread/INFO] [tombstone/]: The player xXDARKOSXx has successfully been saved
+[01Sep2024 06:10:27.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deming> xd
+[01Sep2024 06:10:30.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXDARKOSXx starved to death whilst fighting Deming
+[01Sep2024 06:10:32.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[01Sep2024 06:10:32.059] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[01Sep2024 06:10:52.698] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Silva_htxl/muro_largo_rmk.nbt
+[01Sep2024 06:13:58.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xXDARKOSXx> SALDRE :v
+[01Sep2024 06:14:45.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya una rapi son 3 min para pasarlo al otro lado
+[01Sep2024 06:14:54.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] reinicio en 3 2
+[01Sep2024 06:14:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 1
+[01Sep2024 06:15:01.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silva_htxl lost connection: Disconnected
+[01Sep2024 06:15:01.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silva_htxl left the game
+[01Sep2024 06:15:02.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Sep2024 06:15:02.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Sep2024 06:15:02.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Sep2024 06:15:02.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deming lost connection: Server closed
+[01Sep2024 06:15:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deming left the game
+[01Sep2024 06:15:02.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Sep2024 06:15:04.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Sep2024 06:15:10.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Sep2024 06:15:10.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01Sep2024 06:15:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Sep2024 06:15:10.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Sep2024 06:15:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Sep2024 06:15:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Sep2024 06:15:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01Sep2024 06:15:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Sep2024 06:15:10.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Sep2024 06:15:10.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
